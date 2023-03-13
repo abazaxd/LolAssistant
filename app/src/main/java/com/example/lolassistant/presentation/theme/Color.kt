@@ -1,4 +1,4 @@
-package com.example.lolassistant.ui.theme
+package com.example.lolassistant.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
