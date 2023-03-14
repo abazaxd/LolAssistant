@@ -1,4 +1,4 @@
-package com.example.lolassistant.presentation.theme
+package com.example.lolassistant.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
